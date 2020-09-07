@@ -2,21 +2,21 @@
 
 ## Steps to Follow :
 
-### 1) Install python,virtual enviroment and django
+## Install python
 To download python go to https://www.python.org/downloads/
 
 ## Install Virtual Envirnoment
-# For windows
+### For windows
 pip install virtualenv
-# For Linux or MAC
+### For Linux or MAC
  sudo apt-get install python-virtualenv
-# For windows
+### For windows
   virtualenv venv
-# For Linux or MAC
+### For Linux or MAC
   virtualenv -p python3 venv
-# For windows
+### For windows
   venv\Scripts\activate  
-# for Linux and MAC
+### for Linux and MAC
   source venv/bin/activate
 
 ## Install Django
@@ -25,17 +25,17 @@ $ pip install django
 $ django-admin --version
   
 
-## Run the server
+### Run the server
 
 $ cd medplus
 $ python manage.py runserver
 
-## Stop the server 
+### Stop the server 
 
 Ctrl + c
 
 =========
-Functionalities Provided:
+## Functionalities Provided:
 
 1) Add Appointment
 2) Add Blog
