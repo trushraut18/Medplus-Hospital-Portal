@@ -34,7 +34,6 @@ $ python manage.py runserver
 
 Ctrl + c
 
-=========
 ## Functionalities Provided:
 
 1) Add Appointment
@@ -46,4 +45,4 @@ Ctrl + c
 5) Show list of appointments,blogs,doctors,departments,testimonials,services,paitents
 6)Login,Logout,registration
 
-=======
+
