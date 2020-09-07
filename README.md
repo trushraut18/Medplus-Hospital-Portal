@@ -43,7 +43,6 @@ Ctrl + c
 5) Add Testimonials
 6) Add Paitents
 7) Show list of appointments,blogs,doctors,departments,testimonials,services,paitents.
-
-8)Login,Logout,registration
+8) Login,Logout,registration
 
 
