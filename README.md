@@ -42,7 +42,7 @@ Ctrl + c
 4) Add Services
 5) Add Testimonials
 6) Add Paitents
-5) Show list of appointments,blogs,doctors,departments,testimonials,services,paitents
-6)Login,Logout,registration
+7) Show list of appointments,blogs,doctors,departments,testimonials,services,paitents.
+8)Login,Logout,registration
 
 
